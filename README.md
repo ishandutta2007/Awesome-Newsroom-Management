@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Newsroom-Management?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Newsroom-Management?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Newsroom-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Newsroom-Management?style=flat-square&color=green" alt="License"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Newsroom-Management?style=flat-square" alt="Last Commit"/></a>
@@ -63,7 +63,7 @@ The global **Newsroom Computer Systems (NRCS) & Media Asset Management (MAM)** m
 
 ## ⚡ Open-Source GitHub Projects 🛠️
 
-> **Note:** The table below is sorted by **GitHub Star Count** in descending order. Click on any star badge to visit the stargazers page!
+> **Note:** The table below is sorted by **GitHub Stars_Count** in descending order. Click on any Stars_Badge to visit the stargazers page!
 
 | ⭐ Stars | 📦 Project / Repository | ⚙️ Language / Stack | 📝 Description & Scope |
 | :---: | :--- | :--- | :--- |
@@ -91,7 +91,7 @@ Contributions are warmheartedly welcomed! Help keep this newsroom technology eco
 1. **Fork** this repository.
 2. Edit `README.md` following the existing markdown table structure.
 3. Ensure all SaaS entries include explicit starting prices, trial terms, and estimated corporate metrics.
-4. For open-source additions, include the correct `img.shields.io` star badge pointing to the stargazer URL.
+4. For open-source additions, include the correct `img.shields.io` Stars_Badge pointing to the stargazer URL.
 5. Submit a **Pull Request** with a brief summary of your updates.
 
 ---
