@@ -63,7 +63,7 @@ The global **Newsroom Computer Systems (NRCS) & Media Asset Management (MAM)** m
 
 ## ⚡ Open-Source GitHub Projects 🛠️
 
-> **Note:** The table below is sorted by **GitHub Stars_Count** in descending order. Click on any Stars_Badge to visit the stargazers page!
+> **Note:** The table below is sorted by **GitHub_Stars_Count** in descending order. Click on any Stars_Badge to visit the stargazers page!
 
 | ⭐ Github_Stars | 📦 Project / Repository | ⚙️ Language / Stack | 📝 Description & Scope |
 | :---: | :--- | :--- | :--- |
