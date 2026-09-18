@@ -65,7 +65,7 @@ The global **Newsroom Computer Systems (NRCS) & Media Asset Management (MAM)** m
 
 > **Note:** The table below is sorted by **GitHub Stars_Count** in descending order. Click on any Stars_Badge to visit the stargazers page!
 
-| ⭐ Stars | 📦 Project / Repository | ⚙️ Language / Stack | 📝 Description & Scope |
+| ⭐ Github_Stars | 📦 Project / Repository | ⚙️ Language / Stack | 📝 Description & Scope |
 | :---: | :--- | :--- | :--- |
 | [<img src="https://img.shields.io/github/stars/strapi/strapi?style=social&color=white" alt="strapi/strapi stars"/>](https://github.com/strapi/strapi/stargazers) | **[Strapi](https://github.com/strapi/strapi)** | TypeScript / Node.js | Leading open-source headless CMS widely customized for digital newsrooms, media APIs, and multi-channel publishing pipelines. |
 | [<img src="https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white" alt="TryGhost/Ghost stars"/>](https://github.com/TryGhost/Ghost/stargazers) | **[Ghost](https://github.com/TryGhost/Ghost)** | JavaScript / Node.js | Independent open-source publishing, membership, subscription, and newsletter platform engineered for digital newsrooms. |
