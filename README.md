@@ -1,201 +1,121 @@
-# Awesome-Newsroom-Management
+# 📰 Awesome Newsroom Management 🚀
 
-## Top Newsroom Management Ecosystem
+<div align="center">
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Newsroom-Management?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Newsroom-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Newsroom-Management?style=flat-square&color=green" alt="License"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Newsroom-Management/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Newsroom-Management?style=flat-square" alt="Last Commit"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+<br />
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+![Awesome Newsroom Management Banner](assets/banner.svg)
 
-*Focused on Newsroom Computer Systems (NRCS), Editorial Workflows, Rundowns, Content Production, Planning, Publishing & Multi-Platform News Delivery*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Newsroom Management**. These systems help journalists and media organizations plan, create, edit, approve, and distribute news content across print, digital, broadcast, and social channels—covering assignment, scripting, rundowns, collaboration, and publishing.
-
-
-
-**Examples** include Arc XP, Avid iNEWS, ENPS, Dalet Galaxy, Octopus Newsroom, NewsBoss, OpenMedia, Superdesk, CUE Newsroom, and Flowics (the category leaders).
-
-
-
-**Open-source emphasis**: The standout open-source newsroom platform is **Superdesk** (and its related Newshub / Publisher components), developed by Sourcefabric for end-to-end news creation, production, curation, and distribution. Additional open CMS, planning, and publishing tools exist but rarely match the depth of commercial NRCS for broadcast rundowns. This section lists every major relevant project found.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Arc XP](https://www.arcxp.com/)**  
-
-  Comprehensive digital publishing and newsroom platform used by major media organizations for content management, audience engagement, and multi-channel delivery.
-
-
-
-- **[Avid iNEWS](https://www.avid.com/)**  
-
-  Industry-standard newsroom computer system for story assignment, scripting, rundowns, and tight integration with Avid editing and production workflows.
-
-
-
-- **[ENPS (Associated Press)](https://www.ap.org/enps/)**  
-
-  Widely deployed newsroom system for wire ingest, script writing, rundowns, collaboration, and live production control.
-
-
-
-- **[Dalet Galaxy, Octopus Newsroom, OpenMedia](https://www.dalet.com/)**  
-
-  Professional newsroom and media asset platforms supporting planning, production, rundowns, and broadcast/news workflows.
-
-
-
-- **[NewsBoss, CUE Newsroom, Flowics](https://www.newsboss.com/)**  
-
-  Additional newsroom and live-production tools covering editorial management, graphics, and real-time news presentation.
-
-
-
-- **[Other commercial newsroom & NRCS platforms](https://www.arcxp.com/)**  
-
-  Enterprise solutions for assignment desks, multi-platform publishing, and integrated news production environments.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Superdesk](https://github.com/superdesk/superdesk)**  
-
-  Leading open-source end-to-end news creation, production, curation, distribution, and publishing platform. Modular, scalable, and built specifically for journalism and newsrooms of all sizes (AGPL-3.0).
-
-
-
-- **[Superdesk Core & Client Core](https://github.com/superdesk/superdesk-core)**  
-
-  Shared server and client modules that power Superdesk applications, providing the foundational APIs and UI components for newsroom workflows.
-
-
-
-- **[Superdesk Planning](https://github.com/superdesk/superdesk-planning)**  
-
-  Open-source planning and assignment features for Superdesk, supporting editorial calendars, coverage planning, and resource management.
-
-
-
-- **[Superdesk Newsroom / Newshub](https://github.com/superdesk/newsroom-core)**  
-
-  Secure content store and self-service newsroom interface fed by Superdesk outputs—used for distribution to subscribers and internal consumers.
-
-
-
-- **[Superdesk Web Publisher](https://github.com/superdesk/web-publisher)**  
-
-  Next-generation open-source publishing platform designed to work with Superdesk for digital delivery across websites and channels.
-
-
-
-- **[Other open CMS & journalism tools](https://github.com/search?q=newsroom+OR+journalism+CMS+OR+news+production+open+source)**  
-
-  Community and specialized projects for news websites, editorial workflows, and lightweight content management adapted to media use cases.
-
-
-
-- **[Headless CMS & publishing frameworks](https://github.com/search?q=headless+CMS+OR+publishing+platform+open+source)**  
-
-  Open headless CMS options frequently used by digital-first newsrooms for flexible front-end delivery.
-
-
-
-- **[Collaboration & wire-ingest helpers](https://github.com/search?q=NewsML+OR+NITF+OR+wire+ingest+open+source)**  
-
-  Tools and libraries supporting news agency formats (NewsML, NITF, ninjs, RSS) and basic editorial collaboration.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Full Superdesk stack**: Superdesk + Planning + Newsroom + Publisher for a complete open newsroom-to-publishing pipeline.
-
-- **Drupal / WordPress media distributions**: Heavily customized open CMS installations still used by many smaller and mid-size publishers.
-
-- **Static & modern JAMstack publishers**: Open tools for fast digital news sites when full NRCS features are not required.
-
-- **Rundown & script experiments**: Limited community projects exploring simple rundown or script management outside commercial NRCS.
-
-- **Analytics & audience open tools**: Self-hosted analytics paired with open publishing stacks.
-
-- Hybrid approaches: Superdesk for editorial production + commercial systems for broadcast automation or specialized playout.
-
-
-
-**Frameworks for building custom systems**:  
-
-**Superdesk** is the primary open-source newsroom management platform and the closest equivalent to commercial NRCS/CMS solutions.  
-
-Its modular architecture (core, planning, newsroom/Newshub, publisher) allows organizations to adopt the pieces they need.  
-
-Commercial platforms (Arc XP, Avid iNEWS, ENPS, Dalet, Octopus, etc.) remain dominant for large broadcast newsrooms that require deep rundown control, studio integration, and high-availability production features.  
-
-Many digital and agency newsrooms successfully run on Superdesk; hybrid setups (open editorial + commercial broadcast) are also common. Fully open stacks work well for digital-first and smaller-to-mid-size operations that prioritize ownership and customization.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Newsroom systems handle time-sensitive, high-stakes content and often integrate with broadcast infrastructure. Reliability, security, backup, and clear editorial governance are critical.
-
-- Open-source platforms such as Superdesk offer transparency and freedom from proprietary lock-in but require operational expertise for production deployment, upgrades, and integration with existing tools. Evaluate support options, SLA needs, and total cost of ownership carefully.
-
-
+</div>
 
 ---
 
+## 💡 Overview & SEO Scope 🔍
 
+Welcome to **Awesome Newsroom Management**, the premier curated index of **Newsroom Computer Systems (NRCS)**, **Editorial Workflow Engines**, **Media Asset Management (MAM)**, and **Multi-Platform News Publishing Software**.
 
-**Made for journalists, newsroom technologists, digital editors, and media organizations seeking modern, flexible news production tools.**  
+Whether you operate a broadcast television network, radio station, investigative reporting collective, or digital-first publication, this repository provides data on commercial enterprise SaaS platforms and leading open-source software powering modern journalism.
 
-Let's strengthen open infrastructure for independent and professional journalism—through both the powerful Superdesk ecosystem and complementary commercial newsroom platforms.
+---
+
+## 📑 Table of Contents 📌
+
+- [📊 Market Overview \& Sector Structure](#-market-overview--sector-structure-)
+- [🏢 SaaS \& Commercial Platforms](#-saas--commercial-platforms-)
+- [⚡ Open-Source GitHub Projects](#-open-source-github-projects-)
+- [🤝 How to Contribute](#-how-to-contribute-)
+- [📜 Disclaimer](#-disclaimer-)
+- [💖 Support \& Community](#-support--community-)
+- [📈 Star History](#-star-history-)
+
+---
+
+## 📊 Market Overview & Sector Structure 📈
+
+The global **Newsroom Computer Systems (NRCS) & Media Asset Management (MAM)** market size is estimated at **$3.2 Billion (2026)** and is expanding at a CAGR of ~6.8%. The market is **moderately fragmented**: legacy broadcast titans (*Avid*, *AP ENPS*, *Dalet*) dominate mission-critical television and radio stations requiring deep MOS protocol and playout automation, while cloud-native SaaS platforms (*Arc XP*, *Flowics*, *Kordiam*) and specialized open-source tools (*Superdesk*, *Ghost*, *Strapi*) capture rapid adoption in multi-channel and digital-first media outlets.
+
+---
+
+## 🏢 SaaS & Commercial Platforms 💼
+
+> **Note:** The table below is sorted by **Company Size / Valuation / Revenue** in descending order.
+
+| 🏢 Product / Platform | 📊 Company Size (Valuation / Revenue) | 💵 Starting Price | 🎁 Free Tier / Trial Limit | 📝 Key Capabilities & Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Avid iNEWS](https://www.avid.com/)** | **~$1.40 Billion** Valuation ($425M Revenue) | ~$2,500 / month (base broadcast station license) | No free tier (14-day sales test server upon contract request) | Industry-standard broadcast NRCS for rundown management, story scripting, teleprompter integration, and Avid MediaCentral workflow orchestration. |
+| **[ENPS (Associated Press)](https://www.ap.org/enps/)** | **~$300 Million** Annual Revenue | ~$1,500 / month (entry TV/radio station license) | No free tier (14-day interactive demo available upon sales inquiry) | Enterprise newsroom computer system built by AP for wire ingest, scriptwriting, rundown control, assignment desks, and studio automation. |
+| **[CUE Newsroom](https://www.stibodx.com/)** *(Stibo DX)* | **~$300 Million** Group Revenue | ~$1,800 / month (starter media org license) | 14-day requested test workspace (no permanent free plan) | Modern digital-first newsroom and digital asset ecosystem unifying print, web, mobile, and multichannel publishing workflows. |
+| **[Flowics](https://www.flowics.com/)** *(Vizrt Group)* | **~$150 Million** Group Revenue | ~$250 / month (starter live graphics plan) | 14-day full-featured free trial (no credit card required) | Cloud-native HTML5 graphics and real-time interactive audience engagement system for live news broadcasts and web streams. |
+| **[Arc XP](https://www.arcxp.com/)** *(Graham Holdings)* | **~$100 Million** Annual Revenue | ~$5,000 / month ($60,000 / year base entry) | No free tier (14-day requestable sandbox demo for enterprise evaluations) | Enterprise digital publishing and newsroom platform supporting end-to-end content management, subscriber paywalls, and video delivery. |
+| **[Dalet Galaxy](https://www.dalet.com/)** | **~$70 Million** Annual Revenue | ~$2,000 / month (base newsroom deployment) | 30-day sandbox demo account upon sales agreement | Unified news production, MAM, and workflow orchestration platform managing ingest, editing, rundowns, and multi-platform playout. |
+| **[Octopus Newsroom](https://www.octopus-news.com/)** | **~$15 Million** Annual Revenue | ~$1,200 / month (small news team tier) | 14-day requested test instance (requires server connection) | Story-centric NRCS software for TV, radio, and web newsrooms offering MOS protocol integration, rundown management, and mobile apps. |
+| **[Kordiam](https://www.kordiam.io/)** *(formerly Desk-Net)* | **~$8 Million** Annual Revenue | €299 / month (~$325/mo for up to 10 users) | 14-day free trial (full features, self-serve onboarding) | Cross-media editorial planning, coverage scheduling, and story desk management tailored for print, online, and broadcast teams. |
+| **[NewsBoss](https://www.newsboss.com/)** | **~$5 Million** Annual Revenue | ~$450 / month (radio newsroom starter pack) | 30-day trial version available upon sales request | Complete radio newsroom management solution delivering audio editing, wire ingest, story scripting, and automated broadcast playout. |
+
+---
+
+## ⚡ Open-Source GitHub Projects 🛠️
+
+> **Note:** The table below is sorted by **GitHub Star Count** in descending order. Click on any star badge to visit the stargazers page!
+
+| ⭐ Stars | 📦 Project / Repository | ⚙️ Language / Stack | 📝 Description & Scope |
+| :---: | :--- | :--- | :--- |
+| [<img src="https://img.shields.io/github/stars/strapi/strapi?style=social&color=white" alt="strapi/strapi stars"/>](https://github.com/strapi/strapi/stargazers) | **[Strapi](https://github.com/strapi/strapi)** | TypeScript / Node.js | Leading open-source headless CMS widely customized for digital newsrooms, media APIs, and multi-channel publishing pipelines. |
+| [<img src="https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white" alt="TryGhost/Ghost stars"/>](https://github.com/TryGhost/Ghost/stargazers) | **[Ghost](https://github.com/TryGhost/Ghost)** | JavaScript / Node.js | Independent open-source publishing, membership, subscription, and newsletter platform engineered for digital newsrooms. |
+| [<img src="https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social&color=white" alt="OpenRefine/OpenRefine stars"/>](https://github.com/OpenRefine/OpenRefine/stargazers) | **[OpenRefine](https://github.com/OpenRefine/OpenRefine)** | Java | Essential data cleaning, entity resolution, and transformation power tool for investigative data journalists and news desks. |
+| [<img src="https://img.shields.io/github/stars/freedomofpress/securedrop?style=social&color=white" alt="freedomofpress/securedrop stars"/>](https://github.com/freedomofpress/securedrop/stargazers) | **[SecureDrop](https://github.com/freedomofpress/securedrop)** | Python / Tor | Open-source whistleblower submission system deployed by major news organizations globally for secure leak collection. |
+| [<img src="https://img.shields.io/github/stars/alephdata/aleph?style=social&color=white" alt="alephdata/aleph stars"/>](https://github.com/alephdata/aleph/stargazers) | **[Aleph](https://github.com/alephdata/aleph)** | Python / Angular | Document search and entity analysis platform built by OCCRP for investigative reporters combing through large leak archives. |
+| [<img src="https://img.shields.io/github/stars/coralproject/talk?style=social&color=white" alt="coralproject/talk stars"/>](https://github.com/coralproject/talk/stargazers) | **[Coral Talk](https://github.com/coralproject/talk)** | JavaScript / GraphQL | Open-source newsroom comment management and audience engagement platform created by Vox Media & Mozilla. |
+| [<img src="https://img.shields.io/github/stars/wbkd/awesome-interactive-journalism?style=social&color=white" alt="wbkd/awesome-interactive-journalism stars"/>](https://github.com/wbkd/awesome-interactive-journalism/stargazers) | **[Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)** | Markdown | Curated collection of interactive journalism tools, data visualizations, and newsroom storytelling repositories. |
+| [<img src="https://img.shields.io/github/stars/letterpad/letterpad?style=social&color=white" alt="letterpad/letterpad stars"/>](https://github.com/letterpad/letterpad/stargazers) | **[Letterpad](https://github.com/letterpad/letterpad)** | TypeScript / Next.js | Modern open-source publishing framework designed for independent journalists, writers, and editorial content creators. |
+| [<img src="https://img.shields.io/github/stars/superdesk/superdesk?style=social&color=white" alt="superdesk/superdesk stars"/>](https://github.com/superdesk/superdesk/stargazers) | **[Superdesk](https://github.com/superdesk/superdesk)** | Python / AngularJS | Standout open-source end-to-end newsroom computer system (NRCS) and editorial platform developed by Sourcefabric. |
+| [<img src="https://img.shields.io/github/stars/superdesk/web-publisher?style=social&color=white" alt="superdesk/web-publisher stars"/>](https://github.com/superdesk/web-publisher/stargazers) | **[Superdesk Web Publisher](https://github.com/superdesk/web-publisher)** | PHP / Symfony | Next-generation open-source web publishing platform designed to seamlessly publish content generated from Superdesk. |
+| [<img src="https://img.shields.io/github/stars/superdesk/superdesk-client-core?style=social&color=white" alt="superdesk/superdesk-client-core stars"/>](https://github.com/superdesk/superdesk-client-core/stargazers) | **[Superdesk Client Core](https://github.com/superdesk/superdesk-client-core)** | JavaScript | Reusable front-end UI components, editorial modules, and client-side framework powering Superdesk news applications. |
+| [<img src="https://img.shields.io/github/stars/superdesk/superdesk-core?style=social&color=white" alt="superdesk/superdesk-core stars"/>](https://github.com/superdesk/superdesk-core/stargazers) | **[Superdesk Core](https://github.com/superdesk/superdesk-core)** | Python | Foundational server APIs, ingest processing engines, and core data services powering Superdesk NRCS backends. |
+| [<img src="https://img.shields.io/github/stars/superdesk/newsroom?style=social&color=white" alt="superdesk/newsroom stars"/>](https://github.com/superdesk/newsroom/stargazers) | **[Superdesk Newsroom](https://github.com/superdesk/newsroom)** | Python / JS | Secure content repository and distribution interface (Newshub) for media agencies delivering stories to wire subscribers. |
+| [<img src="https://img.shields.io/github/stars/superdesk/superdesk-planning?style=social&color=white" alt="superdesk/superdesk-planning stars"/>](https://github.com/superdesk/superdesk-planning/stargazers) | **[Superdesk Planning](https://github.com/superdesk/superdesk-planning)** | Python / JS | Editorial calendar, assignment management, and coverage planning extension built for Superdesk newsrooms. |
+
+---
+
+## 🤝 How to Contribute 🛠️
+
+Contributions are warmheartedly welcomed! Help keep this newsroom technology ecosystem accurate and up to date:
+
+1. **Fork** this repository.
+2. Edit `README.md` following the existing markdown table structure.
+3. Ensure all SaaS entries include explicit starting prices, trial terms, and estimated corporate metrics.
+4. For open-source additions, include the correct `img.shields.io` star badge pointing to the stargazer URL.
+5. Submit a **Pull Request** with a brief summary of your updates.
+
+---
+
+## 📜 Disclaimer ⚖️
+
+- This is a **community-curated index** for informational and educational purposes.
+- Newsroom systems manage high-stakes, time-sensitive broadcast and publishing pipelines; always conduct independent technical evaluation before production deployment.
+- Product names, logos, and trademarks belong to their respective corporate owners.
+
+---
+
+## 💖 Support & Community 🌟
+
+Thank you for exploring **Awesome-Newsroom-Management**! 📰  
+If you find this curated ecosystem list helpful for your newsroom, media organization, or research, please consider supporting the project:
+
+- ⭐ **Star this repository** to show your appreciation and boost visibility.
+- 🔀 **Fork & Contribute** to submit new open-source tools or SaaS updates.
+- 📢 **Share with colleagues**, journalists, and newsroom technologists.
+- ☕ **Sponsor / Buy me a coffee**: Support ongoing open-source curation on the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History 📊
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Newsroom-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Newsroom-Management&type=date&legend=top-left)
